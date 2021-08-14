@@ -1,0 +1,4 @@
+//object create jarvise
+                            //store data word , filename, line no = counter
+                            //getword from object jarvise
+                            //hashw
